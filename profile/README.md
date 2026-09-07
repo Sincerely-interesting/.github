@@ -14,3 +14,6 @@ shaxing: 负责货架电商端到端整条链路的Agent架构，做自演化的
 
 在线演示: https://www.sincerelytuner.cloud/
 
+
+<img width="1440" height="1920" alt="6c4a9759c251a253287c14a41aa8cef2" src="https://github.com/user-attachments/assets/3ee4d790-51d2-4913-99d7-1cc9702ce1a1" />
+
